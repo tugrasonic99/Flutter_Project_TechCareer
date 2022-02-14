@@ -1,7 +1,10 @@
 # flutter_final
 
-A new Flutter project.
+Flutter tabanlı yemek alışveriş uygulaması. TechCareer Flutter Bootcamp bitirme projesi.
 
+Demo: https://drive.google.com/file/d/1kaqFyb1ZNWximQE1SVNnMWKov0GlCdlO/view?usp=sharing
+
+Web servisleri Kasım Adalan tarafından sağlanmıştır. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
